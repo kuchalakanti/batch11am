@@ -7,5 +7,6 @@ resource "azurerm_resource_group" "rg" {
 resource "azurerm_resource_group" "rg" {
     name = "rg01"
     location = "westus"
+    this is something
   
 }
